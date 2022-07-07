@@ -69,5 +69,15 @@ h2{font-size: 40px;}
     margin-right: 5%;
     border-radius: 10%;
     box-shadow:10px 10px mediumvioletred;
+   
     
+}
+#full-stack-developer{
+    border-left: 7px solid tomato;
+}
+#Baby-web-developer{
+    border-left: 7px solid rgb(100, 24, 11);
+}
+footer p{
+    text-align: center;
 }
